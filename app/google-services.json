@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547598999259",
+    "firebase_url": "https://freelance-a7020.firebaseio.com",
+    "project_id": "freelance-a7020",
+    "storage_bucket": "freelance-a7020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547598999259:android:ea839c753fd541fff3f6fe",
+        "android_client_info": {
+          "package_name": "edu.com.demo.pokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547598999259-794fq3b6pij5441cpcob5i2g8j15l3l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.com.demo.pokemon",
+            "certificate_hash": "57fdda89d8eab03c849c54374911589c21972fa6"
+          }
+        },
+        {
+          "client_id": "547598999259-0m2da42robk3v28gsb0od2pehhne53pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9TE0ZBTEDAw2NYN4KRtzLGY_OMPVDPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547598999259-0m2da42robk3v28gsb0od2pehhne53pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
